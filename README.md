@@ -1,4 +1,4 @@
- Verilog Implementation Report: Blue LED Blinking on VSDSquadron FPGA Mini
+ Verilog Implementation Report:*Blue LED Blinking on VSDSquadron FPGA Mini*
 
  Objective
 
@@ -47,7 +47,7 @@ testwire| 17
 
 These pins correspond to the RGB LED and oscillator clock input as per the VSDSquadron FPGA Mini board’s datasheet.
 
-# 🛠 Step 3: Toolchain and Flashing
+# Step 3: Toolchain and Flashing
 
 ## Required Tools Installed
 
