@@ -38,7 +38,7 @@ The UART transmitter is implemented as a finite state machine (FSM) that handles
 
 ### Block Diagram
 
-![Block Diagram](https://raw.githubusercontent.com/vinaysubramanya/VSDSQUADRON/main/uart_tx/block.jpg)
+![Block Diagram](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_three/block_diagram.png))
 
 ### Circuit Diagram
 
@@ -53,7 +53,7 @@ These diagrams illustrate how the oscillator, baud generator, UART FSM, and RGB 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/vinaysubramanya/VSDSQUADRON.git
+https://github.com/VinayGHebbar/VSD_TASK_01.git
 cd VSDSQUADRON/uart_tx
 ```
 
