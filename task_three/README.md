@@ -42,7 +42,7 @@ The UART transmitter is implemented as a finite state machine (FSM) that handles
 
 ### Circuit Diagram
 
-![Circuit Diagram](https://raw.githubusercontent.com/vinaysubramanya/VSDSQUADRON/main/uart_tx/ckt%20(1)%20(1).drawio.png)
+![Circuit Diagram](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_three/circuit_diagram.png)
 
 These diagrams illustrate how the oscillator, baud generator, UART FSM, and RGB driver are interconnected to form the full system.
 
@@ -91,7 +91,7 @@ Once the FPGA is programmed, the UART transmitter starts sending the ASCII chara
 
 ## 5. Demo Video
 
-🎥 [Watch Demonstration on Google Drive](https://drive.google.com/file/d/1cDMsikjzdnfnlmxQdxnY9RZjrTezvj9C/view?usp=drive_link)
+🎥 [Watch Demonstration on Google Drive]
 
 ---
 
