@@ -149,7 +149,7 @@ SB_RGBA_DRV RGB_DRIVER (
 
 ### Clone the Project
 ```bash
-git clone https://github.com/vinaysubramanya/VSDSQUADRON.git
+git clone https://github.com/VinayGHebbar/VSD_TASK_01.git
 cd VsdSquadron_mini_fpga_uart_loopback
 ```
 
@@ -179,4 +179,4 @@ sudo minicom -b 9600 /dev/ttyUSB0 --echo
 
 ## 📹 Demo
 
-Watch the demo here: [Video Link]
+Watch the demo here: [Video Link](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_two/task_two.mp4)
