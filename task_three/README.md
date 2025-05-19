@@ -91,7 +91,7 @@ Once the FPGA is programmed, the UART transmitter starts sending the ASCII chara
 
 ## 5. Demo Video
 
-🎥 [Watch Demonstration on Google Drive]
+🎥 [Watch Demonstration on Google Drive](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_three/WhatsApp%20Video%202025-05-19%20at%2016.54.34_96f4bcff.mp4)
 
 ---
 
