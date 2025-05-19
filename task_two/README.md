@@ -172,11 +172,11 @@ sudo minicom -b 9600 /dev/ttyUSB0 --echo
 
 | Input          | Output       |
 |----------------|--------------|
-| `fpga`         | `ffppggaa`   |
-| `vsd`          | `vvssdd`     |
+| `vinay`         | `vviinnaayy`   |
+
 
 ---
 
 ## 📹 Demo
 
-Watch the demo here: [Video Link](https://drive.google.com/file/d/1jzVcgb8HrUnp4uxnUsRd3ik6yXWLRCSc/view?usp=drive_link)
+Watch the demo here: [Video Link]
