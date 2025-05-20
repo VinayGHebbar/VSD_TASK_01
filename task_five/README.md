@@ -14,8 +14,11 @@ This project illustrates the use of an FPGA to:
 
 The implementation demonstrates control of **two RGB LEDs** responding to ASCII commands:
 - `'r'` → Activates red on both LEDs (with minor output variations).
-- `'g'` → Lights green on RGB1, blue on RGB2.
-- `'b'` → Displays blue on RGB1 and red on RGB2.
+- `'g'` → Lights green on RGB1, green on RGB2.
+- `'b'` → Displays blue on RGB1 and blue on RGB2.
+-''y''→displays mixture red and blue on RGB1 and RGB2
+-''w''→displays mixture red and green on RGB1 and RGB2
+-''w''→displays mixture green and blue on RGB1 and RGB2
 
 This is a foundational step toward UART-based actuator control in embedded and robotic systems.
 
