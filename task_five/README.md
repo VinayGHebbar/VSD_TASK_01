@@ -65,7 +65,7 @@ This is a foundational step toward UART-based actuator control in embedded and r
 
 ## 🔌 Circuit Layout
 
-![Circuit Diagram]()
+![Circuit Diagram](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_five/circuit%20diagram.png)
 
 *Note: Double-check common cathode/anode configuration and resistor placement.*
 
