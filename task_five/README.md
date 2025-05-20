@@ -59,9 +59,11 @@ This is a foundational step toward UART-based actuator control in embedded and r
 | Command | RGB1 Color | RGB2 Color |
 |---------|------------|------------|
 | `'r'`   | Red        | Red        |
-| `'g'`   | Green      | Blue       |
-| `'b'`   | Blue       | Red        |
-
+| `'g'`   | Green      | green       |
+| `'b'`   | Blue       | blue        |
+| `'y'`   | Magenta    | Magenta     |
+| `'c'`   |Cyan       | Cyan      |
+| `'w'`   | Blank    | blank       |
 > Commands must be sent as ASCII characters.
 
 ---
