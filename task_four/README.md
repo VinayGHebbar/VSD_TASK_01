@@ -29,11 +29,11 @@ This implementation involves two essential Verilog modules:
 
 ### 📊 Block Diagram
 
-![Block Diagram](https://github.com/vinaysubramanya/VSDSQUADRON/blob/main/uart_tx_sense/blockdiagramuart.jpg)
+![Block Diagram](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_four/blockdiagram_task_four.png)
 
 ### 🧾 ASCII Schematic
 
-![Circuit Diagram](https://github.com/vinaysubramanya/VSDSQUADRON/blob/main/uart_tx_sense/cicruitdiagram.png)
+![Circuit Diagram](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_four/circuit_diagram_task_four.png)
 
 ---
 
@@ -44,7 +44,7 @@ This implementation involves two essential Verilog modules:
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/vinaysubramanya/VSDSQUADRON.git
+https://github.com/VinayGHebbar/VSD_TASK_01.git
 cd vsd_squadron_minifpga_4/uart_tx_sense
 ```
 
@@ -89,7 +89,7 @@ sudo make terminal
 
 Watch the full hardware demo here:
 
-▶️ [Click to View Demo](https://drive.google.com/file/d/1Va9m0Ph3c5LruW6TbAxQjprSipHgXmQI/view?usp=drive_link)
+▶️ [Click to View Demo](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_four/demo_video.mp4)
 
 ---
 
