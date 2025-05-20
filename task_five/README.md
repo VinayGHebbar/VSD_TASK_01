@@ -130,7 +130,7 @@ end
 
 2. Open a serial terminal at **115200 baud**, 8N1 configuration.
 
-3. Send single-character ASCII commands: `'r'`, `'g'`, `'b'`,'y'`, `'w'`, `'c'`
+3. Send single-character ASCII commands: `'r'`, `'g'`, `'b'`, `'y'`, `'w'`, `'c'`
 
 4. Observe RGB LEDs respond based on command mappings and along with RGB it also get mixer of two colors from the rgb with the ASCII commands y,w,c.
 
