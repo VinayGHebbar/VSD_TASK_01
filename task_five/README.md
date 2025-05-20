@@ -47,7 +47,7 @@ This is a foundational step toward UART-based actuator control in embedded and r
 
 ## 🧱 System Architecture
 
-![Block Diagram](https://github.com/vinaysubramanya/VSDSQUADRON/blob/main/RGB%20TASK5/BLOCKDIAGRAM%20(2).png)
+![Block Diagram](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_five/block%20diagram.png)
 
 ---
 
@@ -65,7 +65,7 @@ This is a foundational step toward UART-based actuator control in embedded and r
 
 ## 🔌 Circuit Layout
 
-![Circuit Diagram](https://github.com/vinaysubramanya/VSDSQUADRON/blob/main/RGB%20TASK5/RGB.jpg)
+![Circuit Diagram]()
 
 *Note: Double-check common cathode/anode configuration and resistor placement.*
 
@@ -125,24 +125,24 @@ end
 
 2. Open a serial terminal at **115200 baud**, 8N1 configuration.
 
-3. Send single-character ASCII commands: `'r'`, `'g'`, `'b'`.
+3. Send single-character ASCII commands: `'r'`, `'g'`, `'b'`,'y'`, `'w'`, `'c'`
 
-4. Observe RGB LEDs respond based on command mappings.
+4. Observe RGB LEDs respond based on command mappings and along with RGB it also get mixer of two colors from the rgb with the ASCII commands y,w,c.
 
 
 ---
 
 ## 🎥 Demo Video
 
-[Watch the Project in Action](https://github.com/vinaysubramanya/VSDSQUADRON/blob/main/RGB%20TASK5/RGBTASK5.mp4)
+[Watch the Project in Action](https://github.com/VinayGHebbar/VSD_TASK_01/blob/main/task_five/demo_video.mp4)
 
 ---
 
 ## 👤 Author
 
-**Vinay Subramanya CK**  
+**Vinay G Hebbar**  
 
-📧 wompert08@gmail.com
+📧 vinayghebbar@gmail.com
 
 ---
 
